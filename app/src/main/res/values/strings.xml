@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Store App</string>
+    <string name="store_name">Our Personal Store</string>
+    <string name="name">Product Name</string>
+    <string name="name_of_the_product">Name of the Product</string>
+    <string name="brand">Brand</string>
+    <string name="brand_of_the_product">Brand of the Product</string>
+    <string name="in_stock">In Stock</string>
+    <string name="write_yes_or_no">Write Yes or No</string>
+    <string name="weight">Weight</string>
+    <string name="price">Price</string>
+    <string name="add_item">Add Item</string>
+    <string name="update">Update</string>
+    <string name="emptylogo">EmptyLogo</string>
+    <string name="no_item_is_present">No Item is Present</string>
+</resources>
