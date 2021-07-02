@@ -1,6 +1,6 @@
 # Our Personal Store App
 #### Demo of the app
-![demo](https://github.com/rahul-aggarwal000005/Google-Books-App-/blob/master/demo.gif)
+![demo](https://github.com/rahul-aggarwal000005/Store-App/blob/master/store-app.gif)
 
 ## Installation
 Clone this repository and import into **Android Studio**
